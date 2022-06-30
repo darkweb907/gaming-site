@@ -10,7 +10,8 @@ main {
 
 header {
   position: relative;
-  background: url(images/zany-jadraque-YLdC7qO9M3g-unsplash.jpg) no-repeat center center;
+  background: url(images/zany-jadraque-YLdC7qO9M3g-unsplash.jpg) no-repeat
+    center center;
   background-size: cover;
   min-height: 95vh;
 }
@@ -99,7 +100,8 @@ header .move p {
 }
 
 .video {
-  background: url(images/zany-jadraque-YLdC7qO9M3g-unsplash.jpg) no-repeat center center;
+  background: url(images/zany-jadraque-YLdC7qO9M3g-unsplash.jpg) no-repeat
+    center center;
   background-size: cover;
   min-height: 85vh;
 }
@@ -224,7 +226,7 @@ footer button {
 
 .in {
   -webkit-animation: slideIn 1.3s forwards ease-in-out;
-          animation: slideIn 1.3s forwards ease-in-out;
+  animation: slideIn 1.3s forwards ease-in-out;
 }
 
 @-webkit-keyframes slideIn {
@@ -281,4 +283,4 @@ footer button {
   .video h1 {
     font-size: 48px;
   }
-}/*# sourceMappingURL=style.css.map */
+} /*# sourceMappingURL=style.css.map */
