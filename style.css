@@ -10,8 +10,7 @@ main {
 
 header {
   position: relative;
-  background: url(images/zany-jadraque-YLdC7qO9M3g-unsplash.jpg) no-repeat
-    center center;
+  background: url("images/mouse.jpg") no-repeat center center;
   background-size: cover;
   min-height: 95vh;
 }
