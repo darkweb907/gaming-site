@@ -8,7 +8,8 @@ main{
 }
 header{
     position: relative;
-    background: url(images/zany-jadraque-YLdC7qO9M3g-unsplash.jpg) no-repeat center center;
+    background-blend-mode: darken;
+    background: rgba(0, 0, 0, 0.5) url(images/mouse.jpg) no-repeat center center;
     background-size: cover;
     min-height: 95vh;
 .icon{
@@ -97,7 +98,8 @@ header{
         }
 }
 .video{
-    background: url(images/zany-jadraque-YLdC7qO9M3g-unsplash.jpg) no-repeat center center;
+    background-blend-mode: overlay;
+    background: rgba(0, 0, 0, 0.5) url(images/jose-gil-2pNdTBn4C7U-unsplash.jpg) no-repeat center center;
     background-size: cover;
     min-height: 85vh;
     h1 {
