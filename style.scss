@@ -3,7 +3,11 @@
     padding: 0;
     box-sizing: border-box;
 }
+main{
+    overflow-x: hidden;
+}
 header{
+    position: relative;
     background: url(images/zany-jadraque-YLdC7qO9M3g-unsplash.jpg) no-repeat center center;
     background-size: cover;
     min-height: 95vh;
